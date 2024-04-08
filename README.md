@@ -27,4 +27,3 @@ Copy the zip files inside build/zip to $RDECK_BASE/libext.
 After install you should see these as Node Steps in the job editor.
 
 ![steps](images/nixy-steps.png)
-
